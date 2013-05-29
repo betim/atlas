@@ -18,3 +18,7 @@ usage
 =====
 
 Navigate to http://localhost/atlas/ and add hosts with "Host" -> "Add Host". Then view results or compare them.
+
+screenshot
+==========
+![Using output to plot hops on Google Map and Highcharts](https://raw.github.com/betim/atlas/master/2013-05-29-110058_1280x1000_scrot.png)
